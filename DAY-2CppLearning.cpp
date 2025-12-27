@@ -16,7 +16,7 @@ int main(){
     cout << endl;
 
     cout << "Welcome, " << name << "!" << endl;
-    cout << "At " << age << "years young, your potential is limitless." << endl;
+    cout << "At " << age << " years young, your potential is limitless." << endl;
     cout << "Today is a fresh opportunity to build something amazing." << endl;
     cout << "believe in yourself and keep coding!" << endl;
 
